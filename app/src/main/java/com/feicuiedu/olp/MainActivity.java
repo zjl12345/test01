@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         MyClass mClass = new MyClass();
         String  a = MyClass.txt1;
         mClass.txt1 = "bbb";
+        String txt3 = "ccc";
     }
 
 
