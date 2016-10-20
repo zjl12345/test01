@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/OnlineProject01.iml" filepath="$PROJECT_DIR$/OnlineProject01.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/vidioplayer/vidioplayer.iml" filepath="$PROJECT_DIR$/vidioplayer/vidioplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
     </modules>
   </component>
 </project>
